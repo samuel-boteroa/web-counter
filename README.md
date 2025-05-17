@@ -34,7 +34,7 @@ docker build . -t webcounter
 
 ### 3. Ejecutar el Contenedor
 ```bash
-docker run -d -p 3000:3000 counter-app
+docker run -d -p 3000:3000 webcounter
 ```
 
 
