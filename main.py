@@ -52,9 +52,9 @@ HTML_TEMPLATE = '''
     <h1>Counter App</h1>
     <p>{{ counter }}</p>
     <form method="post">
-        <button name="action" value="add">➕ Add</button>
-        <button name="action" value="subtract">➖ Subtract</button>
-        <button name="action" value="reset">🔄 Reset</button>
+        <button name="action" value="add">➕ Adicionar</button>
+        <button name="action" value="subtract">➖ Restar</button>
+        <button name="action" value="reset">🔄 Reiniciar</button>
     </form>
 </body>
 </html>
